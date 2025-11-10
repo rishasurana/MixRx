@@ -40,9 +40,7 @@ mixrx/
 ├── final_reduced.csv               # Cleaned dataset for prompting
 ├── final_reduced_messy.csv         # Perturbed dataset for robustness testing
 │
-├── generate_messy.py               # Script to create spelling/formatting perturbations
-│
-└── mixrx.code-workspace            # Project workspace configuration (VS Code)
+├── generate_messy.py               # Script to create spelling/formatting perturbation
 ```
 
 ## Installation
@@ -93,6 +91,6 @@ If using MixRx in academic work, please cite:
 
 ```
 Surana, R., Saidock, C., & Chacon, H. (2024).
-MixRx: LLM-Guided Prediction of Multi-Drug Interaction Effects.
+MixRx
 University of Southern California.
 ```
